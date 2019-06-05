@@ -1,0 +1,108 @@
+body
+{
+	/*background-color: rgb(38,38,38) noir clair rgb(200, 92, 249) violet;*/
+	background-image: url("ressource/background/test.jpg");
+}
+
+.title
+{
+	font-size: 30px;
+	color: white;
+}
+
+.titleuse
+{
+	color: white;
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.5);
+	border: 3px solid white;
+	border-radius: 10px;
+	width: 100px;
+}
+
+.titlemain
+{
+	font-size: 30px;
+	color: white;
+	box-shadow: 1px 1px 12px #333;
+}
+
+.createur
+{
+	margin: auto;
+	margin-bottom: 2%;
+	margin-top: 2%;
+	font-size: 60px;
+	color: white;
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.5);
+	border: 3px solid white;
+	border-radius: 10px;
+	width: 550px;
+	font-family: "Arial Black";
+}
+
+nav a
+{
+	text-decoration: none;
+	color: white;
+}
+
+.pseudo
+{
+	/*background-color: white;
+	margin: 0px 0px 0px 0px;
+	width: 10%;
+	border: 1px black;
+	border-radius: 10px /5px;
+	padding-left: 4%;
+	padding-right: 4%;*/
+
+	margin: 0px 200px;
+    font-family: 'permanent_markerregular';
+    padding-left: 4%;
+    color: white;
+}
+
+.bio
+{
+	color: white;
+}
+
+
+.lien
+{
+	font-style: bold;
+	color: #d1d1d1;
+}
+
+.lien:visited
+{
+  color: #a5d5d5;
+}
+
+.marge
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.textalign
+{
+	text-align: center;
+}
+
+p
+{
+	color: white;
+}
+
+@font-face 
+{
+    font-family: 'permanent_markerregular';
+    src: url('font/permanentmarker-webfont.woff2') format('woff2'),
+         url('font/permanentmarker-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
