@@ -64,6 +64,14 @@ article
 	-webkit-transition: 200ms;
 }
 
+.logomelodica
+{
+	margin: 0px 0px 0px 25px;
+	height: 150px;
+	width: 150px;
+	border: 5px solid white;
+}
+
 .logo:hover
 {
 	border-bottom: 5px solid white;
