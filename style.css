@@ -66,18 +66,17 @@ nav a
 
 .minipseudo
 {
-	margin: 25px;
+	margin: auto;
+	margin-bottom: 2%;
+	margin-top: 2%;
+	font-size: 60px;
+	color: white;
+	text-align: center;
 	background-color: rgba(0, 0, 0, 0.5);
-	font-size: 24px;
+	border: 1px solid white;
 	border-radius: 10px;
-	padding: 2%;
-	margin-right: 2%;
-	margin-left: 2%;
-
-	margin: 0px 200px;
-    font-family: 'permanent_markerregular';
-    padding-left: 4%;
-    color: white;
+	width: 550px;
+	font-family: 'permanent_markerregular';
 }
 
 .bio
