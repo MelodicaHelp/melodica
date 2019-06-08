@@ -111,5 +111,10 @@ p
 {
 	text-align: justify;
 	font-size: 1.1em;
-
+	color: white;
+	font-family: arial;
+	border: 0px solid white;
+	border-radius: 10px;
+	margin-right: 2%;
+	margin-left: 2%;
 }
