@@ -66,13 +66,12 @@ nav a
 
 .minipseudo
 {
+	margin-bottom: 25px;
 	background-color: rgba(0, 0, 0, 0.5);
-	margin: 0px 0px 0px 0px;
-	width: 10%;
-	border: 1px black;
-	border-radius: 10px /5px;
-	padding-left: 4%;
-	padding-right: 4%;
+	font-size: 24px;
+	padding: 2%;
+	margin-right: 2%;
+	margin-left: 2%;
 
 	margin: 0px 200px;
     font-family: 'permanent_markerregular';
