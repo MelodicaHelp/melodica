@@ -3,6 +3,7 @@ body
 	/*background-color: rgb(38,38,38) noir clair rgb(200, 92, 249) violet;*/
 	background-image: url("ressource/background/test1.png");
 	background-attachment: scroll;
+	background-size: cover;
 }
 
 .title
